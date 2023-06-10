@@ -63,8 +63,13 @@ MCA Questions examples:
 More than choice per question should be an answer and is a must**
 
 Q1: Which of the following are examples of light-dependent reactions in photosynthesis?
+
 a. Stripping electrons from suitable substances
+
 b. Reducing and removing compounds
+
 c. Producing glucose
+
 d. Creating NADPH and ATP
-Correct Options: (a) & (d
+
+Correct Options: (a) & (d)
