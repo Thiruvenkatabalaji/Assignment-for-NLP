@@ -22,7 +22,9 @@ You can assume the following in the image:
 
 
 Example MCAs
+
 Context:
+
 Photosynthesis is a process used by plants and other organisms to convert light energy into
 chemical energy that, through cellular respiration, can later be released to fuel the organism's
 activities. Some of this chemical energy is stored in carbohydrate molecules, such as sugars and
@@ -57,8 +59,9 @@ into biomass per year. That plants receive some energy from light – in additio
 – was first discovered in 1779 by Jan Ingenhousz.
 
 
-MCA Questions examples: More than choice per question should be an answer and is a
-must**
+MCA Questions examples: 
+More than choice per question should be an answer and is a must**
+
 Q1: Which of the following are examples of light-dependent reactions in photosynthesis?
 a. Stripping electrons from suitable substances
 b. Reducing and removing compounds
